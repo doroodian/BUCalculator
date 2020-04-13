@@ -1,0 +1,4 @@
+com\mycompany\bucalculator\JAXRSConfiguration.class
+com\mycompany\bucalculator\resources\JavaEE8Resource.class
+org\uvacourse\webservice\business\NumberServiceImpl.class
+org\uvacourse\webservice\NumberCalculator.class
